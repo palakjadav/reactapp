@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-This is a skeleton app that takes 'Name' as user input in a TextField and prints it in the console.
+This is an app skeleton that takes 'Name' as user input in a TextField and prints it in the console.
 
 ## Video Walkthrough 
 
