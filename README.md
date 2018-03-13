@@ -2,7 +2,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This is a skeleton app that takes 'Name' as user input in a TextField and prints it in the console.
 
-Video Walkthrough: https://i.imgur.com/YQkWLAr.gif
+## Video Walkthrough 
+
+Here's a video walkthrough:
+
+<img src='https://i.imgur.com/YQkWLAr.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 
 Below you will find some information on how to perform common tasks.<br>
