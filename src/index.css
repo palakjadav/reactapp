@@ -3,3 +3,31 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+.first-div, .second-div {
+  border: 2px solid lightgray;
+  margin:30px;
+  padding:30px;
+}
+
+.fileInput {
+  border: 2px solid lightgray;
+  padding: 10px;
+  cursor: pointer;
+}
+  
+  
+.imgPreview {
+  margin-top: 5px;
+  height: 50px;
+  width: 50px;
+}
+ 
+img {
+  width: 100%;
+  height: 100%;
+}
+
+.uploadButton {
+  margin: 5px;
+}
